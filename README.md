@@ -10,7 +10,7 @@ This Flutter application fetch data form OpenWeatherMap API and show following d
 - Wind Speed
 - Sky Condition
 - Weather condition
-- An icon based on weather condition
+- An icon based on weather conditions
 
 ## Table of Contents
 
